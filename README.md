@@ -1,10 +1,6 @@
 ### Hi there 👋
 
 
-**phuens/phuens** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently a master's student at University of Saskatchewan.  
 - 🤔 I’m looking for help with Redux.
 - 💬 Ask me about anything. 
